@@ -1,0 +1,21 @@
+
+Þsrc/main/scala/HelloWorld.scala*(
+_empty_/HelloWorld.
+ *
+HelloWorld€*/
+_empty_/HelloWorld.sayHello().*sayHello€*$
+_empty_/sayHello# *sayHello€*.
+_empty_/sayHello#`<init>`(). €@*<init>€*(
+_empty_/sayHello#main(). € *main€*+
+_empty_/sayHello#main().(args)*args€*
+local0 €*error€2
+ _empty_/HelloWorld.2
+ scala/main#2,
+ _empty_/HelloWorld.sayHello().2
+ scala/Unit#2'
+ scala/Predef.println(+1).2
+ _empty_/sayHello#2*
+ _empty_/sayHello#`<init>`().2,
+ _empty_/HelloWorld.sayHello().27
+ )scala/util/CommandLineParser.showError().2
+ local0PZ 83F42435B127FBBF018BD0DF75E7CF70

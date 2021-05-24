@@ -1,0 +1,22 @@
+
+¼ src/main/scala/Calculation.scala*(
+_empty_/Calculation#*Calculation€*1
+_empty_/Calculation#`<init>`(). €@*<init>€*&
+_empty_/Calculation#add().*add€*'
+_empty_/Calculation#add().(a)*a€*'
+_empty_/Calculation#add().(b)*b€2
+ _empty_/Calculation#2-
+ _empty_/Calculation#`<init>`().2(
+ 	_empty_/Calculation#add().2+
+
+ _empty_/Calculation#add().(a)2
+ 
+scala/Int#2+
+ _empty_/Calculation#add().(b)2
+ 
+scala/Int#2
+ 
+scala/Int#2 
+# $scala/Int#`+`(+4).2+
+! "_empty_/Calculation#add().(a)2+
+% &_empty_/Calculation#add().(b)PZ 99CB6FDD3000CC6AD0E9444DC84285E2

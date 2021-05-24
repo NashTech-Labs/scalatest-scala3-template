@@ -1,0 +1,27 @@
+
+ß$src/test/scala/CalculationSpec.scala*0
+_empty_/CalculationSpec#*CalculationSpec€*5
+#_empty_/CalculationSpec#`<init>`(). €@*<init>€*
+local0 €*calculation€2!
+ org/scalatest/funsuite/2
+ org/scalatest/2
+ 
+org/2&
+ _empty_/CalculationSpec#21
+ #_empty_/CalculationSpec#`<init>`().2<
+) ).org/scalatest/funsuite/AnyFunSuite#`<init>`().21
+ )#org/scalatest/funsuite/AnyFunSuite#2<
+ .org/scalatest/funsuite/AnyFunSuiteLike#test().2
+ local02-
+! !_empty_/Calculation#`<init>`().2"
+ !_empty_/Calculation#20
+ 
+"org/scalatest/Assertions#assert().2B
+! $4org/scalactic/TripleEqualsSupport#Equalizer#`===`().2>
+ 0org/scalactic/TripleEquals#convertToEqualizer().2(
+ _empty_/Calculation#add().2
+ local02/
+& &!org/scalactic/Equality.default().2/
+' '!org/scalactic/Prettifier.default.23
+' '%org/scalactic/source/Position.here().2<
+' '.org/scalatest/Assertions#UseDefaultAssertions.PZ 8D6FD4D26C4F01FFA1DBFC0473C87881
