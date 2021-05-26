@@ -2,7 +2,7 @@ import org.scalatest.featurespec.AnyFeatureSpec
 import org.scalatest.GivenWhenThen
 import org.scalatest.matchers.should.Matchers
 
-class SchoolSpec extends AnyFeatureSpec with GivenWhenThen with Matchers {
+class SchoolFeatureSpec extends AnyFeatureSpec with GivenWhenThen with Matchers {
   Feature("School") {
     val principal = Principal("Ms. Rodrigues")
 
