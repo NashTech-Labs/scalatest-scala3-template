@@ -7,3 +7,4 @@ This project covers the following test styles
  FunSpec
  FlatSpec
  FeatureSpec
+ FreeSpec
